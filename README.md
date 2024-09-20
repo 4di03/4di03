@@ -1,7 +1,6 @@
 ## Hi There 👋
 
-I'm interested in solving challenging problems in a variety of domains spanning artificial intelligence, distributed computing, quantum physics, and more. 
-Working at the intersection of software engineering and machine learning, I am eager to apply my skills to tackle real-world problems and drive lasting impact.
+I like coding & Physics!
 
 💻 Tech Stack:
 - Python, JavaScript, Go, SQL, C++, C, Java
