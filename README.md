@@ -1,4 +1,4 @@
-## Adithya Palle
+## Hi There 👋
 
 💻 Tech Stack:
 - Python, JavaScript, Go, SQL, C++, C, Java
