@@ -1,16 +1,17 @@
-## Hi there 👋
+## Adithya Palle
 
-<!--
-**4di03/4di03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+- Python, JavaScript, Go, SQL, C++, C, Java
+- Git, Docker, Kubernetes, MongoDB, AWS, Kafka . . .
+- Pandas, PyTorch, LibTorch, OpenCV, Scikit-Learn . . .
+- Backend, Distributed Systems, ML
 
-Here are some ideas to get you started:
+🔭 I’m currently working on ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖐 PalmPilot 
+- 📚 Masters in Computer Science, expected December 2025.
+- 👨🏽‍🏫 Teaching Assistant for DS & Algorithms
+
+📫 How to reach me . . .
+adithyapalle12@gmail.com
+
