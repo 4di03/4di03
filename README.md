@@ -12,6 +12,5 @@
 - 📚 Masters in Computer Science, expected December 2025.
 - 👨🏽‍🏫 Teaching Assistant for DS & Algorithms
 
-📫 How to reach me . . .
-adithyapalle12@gmail.com
+📫 How to reach me: adithyapalle12@gmail.com
 
