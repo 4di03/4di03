@@ -1,7 +1,5 @@
 ## Hi There 👋
 
-I like coding & Physics!
-
 💻 Tech Stack:
 - Python, JavaScript, Go, SQL, C++, C, Java
 - Git, Docker, Kubernetes, MongoDB, AWS, Kafka . . .
